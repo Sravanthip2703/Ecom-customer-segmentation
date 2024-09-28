@@ -13,9 +13,7 @@ Customer Segmentation is a data science project that aims to categorize a compan
 - [Visualization](#visualization)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors](#authors)
+
 
 ## Installation
 1. **Prerequisites**:
